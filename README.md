@@ -5,9 +5,9 @@ Because your clipboard shouldn’t become a security leak.
 
 ## Why?
 Your clipboard is one of the most overlooked risks in day-to-day computing:
-	•	That API key you copied for testing? Still there.
-	•	The production password you pasted into a config file? Still there.
-	•	The credit card number you copied for an online payment? Still there.
+	- That API key you copied for testing? Still there.
+ 	- The production password you pasted into a config file? Still there.
+  	- The credit card number you copied for an online payment? Still there.
 
 One careless paste into Slack, email, or a terminal, and sensitive data can go places it was never meant to.
 
